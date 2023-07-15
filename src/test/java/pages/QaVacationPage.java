@@ -22,12 +22,14 @@ public class QaVacationPage {
         });
         return this;
     }
+
     public QaVacationPage qaDirection() {
         step("Открытие страницы c направлением работы QA", () -> {
             qaDirection.click();
         });
         return this;
     }
+
     public QaVacationPage searchQaVacation() {
         step("Открытие страницы c актульными вакансиями QA", () -> {
             searchQaVacation.click();
@@ -35,6 +37,7 @@ public class QaVacationPage {
         });
         return this;
     }
+
     public QaVacationPage qaCheck() {
         step("Открытие страницы c актульными вакансиями QA", () -> {
             qaCheck.shouldBe(Condition.visible);

@@ -24,6 +24,7 @@ public class TransmissionOfInformationPage {
         });
         return this;
     }
+
     public TransmissionOfInformationPage accountingOpen() {
         step("Открытие предложений для бизнеса", () -> {
             accountingOpen.click();

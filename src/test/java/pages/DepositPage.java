@@ -18,12 +18,14 @@ public class DepositPage {
         });
         return this;
     }
+
     public DepositPage scrollPercent() {
         step("Установка вклада на 24 месяца", () -> {
             scrollPercent.click();
         });
         return this;
     }
+
     public DepositPage checkoutPercent() {
         step("Открытие страницы вкладов", () -> {
             checkoutPercent.shouldBe(Condition.text("7%"));

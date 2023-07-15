@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 public class TransmissionOfInformationTest extends TestBase {
     @Test
-    public void informationTest(){
+    public void informationTest() {
         basePage.openPage();
         informationPage.businessOpen();
         informationPage.accountingOpen();

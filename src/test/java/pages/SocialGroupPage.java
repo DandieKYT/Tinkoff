@@ -21,6 +21,7 @@ public class SocialGroupPage {
         });
         return this;
     }
+
     public SocialGroupPage vkCheckTitle() {
         step("Проверка заголовка группы", () -> {
             vkCheckTitle.shouldBe(Condition.text("Тинькофф"));
@@ -29,6 +30,7 @@ public class SocialGroupPage {
         });
         return this;
     }
+
     public SocialGroupPage telegramOpen() {
         step("Открытие страницы в telegram", () -> {
             telegramOpen.click();
@@ -36,6 +38,7 @@ public class SocialGroupPage {
         });
         return this;
     }
+
     public SocialGroupPage telegramCheckTitle() {
         step("Проверка заголовка группы", () -> {
             telegramCheckTitle.shouldBe(Condition.text("Тинькофф"));
