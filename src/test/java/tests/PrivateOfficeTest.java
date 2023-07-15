@@ -11,6 +11,9 @@ import org.junit.jupiter.params.provider.CsvSource;
 public class PrivateOfficeTest extends TestBase {
 
     @Test
+    @Tag("PrivateOfficeTest")
+    @Feature("Проверка страницы авторизации")
+    @Story("Открытие страниц Интернет-Банк, Тинькофф-Бизнесс, Инвестиции, Тинькофф-Мобайл и проверка их содержимого")
     public void productsAndCompany() {
         basePage.openPage();
         privateOfficePage.internetBank();
