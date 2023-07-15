@@ -50,7 +50,7 @@
 :clipboard: Наличие вакансии тестировщика на <a href = "https://www.tinkoff.ru/career/it/?specialtyUrl=testirovanie">странице компании </br>
 
 :speech_balloon: Переход на официальную страницу компании в <a href = "https://vk.com/tinkoffbank">ВК
-<a href = "https://t.me/tinkoffbank"> Telegram</a>
+<a href = "https://t.me/tinkoffbank">/Telegram</a>
 
 
 :clipboard: 
