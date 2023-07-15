@@ -1,6 +1,7 @@
 package tests;
 
 import io.qameta.allure.Feature;
+import io.qameta.allure.Owner;
 import io.qameta.allure.Story;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
@@ -8,6 +9,7 @@ import org.junit.jupiter.api.Test;
 public class SocialGroupTest extends TestBase {
     @Test
     @Tag("SocialGroupTest")
+    @Owner("Кудрявцев")
     @Feature("Проверка содержимого социальных групп")
     @Story("Открытие страницы и проверка страниц в соц.сетях ВК и Telegram")
     public void telegramVkOpenPages() {

@@ -14,7 +14,7 @@ public class PrivateOfficeTest extends TestBase {
     @Tag("PrivateOfficeTest")
     @Feature("Проверка страницы авторизации")
     @Story("Открытие страниц Интернет-Банк, Тинькофф-Бизнесс, Инвестиции, Тинькофф-Мобайл и проверка их содержимого")
-    public void productsAndCompany() {
+    public void privateOfficeTest() {
         basePage.openPage();
         privateOfficePage.internetBank();
         privateOfficePage.checkoutInternetBank();

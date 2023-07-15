@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 public class TransmissionOfInformationTest extends TestBase {
     @Test
     @Tag("TransmissionOfInformationTest")
-    @Owner("Кудярвцев")
+    @Owner("Кудрявцев")
     @Feature("Проверка условий передачи информации")
     @Story("Открытие страницы Бизнесс и проверка условий передачи информации")
     public void informationTest() {
