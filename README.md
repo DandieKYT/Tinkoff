@@ -64,7 +64,7 @@
 :card_index_dividers: Проверка <a href = "https://www.tinkoff.ru/business/reports/">условий передачи информации.<a/>
 </br>
 
- <a name="Project"><h2>Проект</h2></a>![image](https://github.com/DandieKYT/Tinkoff/assets/75677738/6c66cd76-b1b9-4880-99fe-b1b448f164ee)
+ <a name="Project"><h2>Проект</h2></a>
 
  <code><a href="https://www.tinkoff.ru/"><img src="/design/icons/biem.jpg" width="60"></a></code>Проект по автоматизации тестирования для <a target="_blank" href="https://www.tinkoff.ru/">Tinkoff</a>   российский коммерческий банк, сфокусированный полностью на дистанционном обслуживании, не имеющий розничных отделений.
  :star2:
