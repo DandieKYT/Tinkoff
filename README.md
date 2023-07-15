@@ -62,12 +62,13 @@
 </br>
 
  <a name="Project"><h2>Проект</h2></a>
- <code><a href="https://bimeister.com/ru/"><img src="/design/icons/biem.jpg" width="60"></a></code>Проект по автоматизации тестирования для <a target="_blank" href="https://bimeister.com/ru/">Bimeister</a>  международная группа компаний, занимающаяся разработкой, инжинирингом и внедрением инновационных цифровых решений для промышленности.
+ <code><a href="https://www.tinkoff.ru/"><img src="/design/icons/biem.jpg" width="60"></a></code>Проект по автоматизации тестирования для <a target="_blank" href="https://www.tinkoff.ru/">Tinkoff</a>   российский коммерческий банк, сфокусированный полностью на дистанционном обслуживании, не имеющий розничных отделений.
  :star2:
 
-<a name="Build_in_Jenkins" href="https://jenkins.autotests.cloud/job/Bimeister/"><h2>👷‍♂️ Сборки в [Jenkins](https://jenkins.autotests.cloud/job/Bimeister/)<h2></a>
+<a name="Build_in_Jenkins" href="https://jenkins.autotests.cloud/job/TinkoffTest/"><h2>👷‍♂️ Сборки в [Jenkins](https://jenkins.autotests.cloud/job/TinkoffTest/)<h2></a>
 
-![image](https://github.com/DandieKYT/Bimeister/assets/75677738/d43fe18e-5e3e-48d7-962a-ffd40cd62800)
+![image](https://github.com/DandieKYT/Tinkoff/assets/75677738/1904d051-1d2b-43f3-b0c3-76f3c7d39a92)
+
 
 
 <a name="terminal"><h2>:computer: Запуск из терминала</h2></a>
@@ -82,12 +83,14 @@ clean test
 
 - <a name="Allure_report1"><h3>Главный экран отчета</h3></a>
 
-![image](https://github.com/DandieKYT/Bimeister/assets/75677738/525bcc9f-fcd1-4463-9450-dc5adc0d25b9)
+![image](https://github.com/DandieKYT/Tinkoff/assets/75677738/3ec0e1fc-5672-402e-b399-bd23848892ae)
+
 
 
 -  <a name="Allure_report2"><h3>Страница с проведенными тестами</h3></a>
 
-![image](https://github.com/DandieKYT/Bimeister/assets/75677738/a0785349-8c7e-4932-a2a9-380dd572835f)
+![image](https://github.com/DandieKYT/Tinkoff/assets/75677738/dffb8315-97ea-40d7-b993-893a97465cd4)
+
 
 
 <a name="Integration_Allure_TestOps"><h2>:bar_chart: Интеграция с Allure TestOps</h2></a>
@@ -97,17 +100,22 @@ clean test
 
 <a name="Telegram"><h2>:iphone: Отчет в Telegram</h2></a>
 
-![image](https://github.com/DandieKYT/Bimeister/assets/75677738/dc3cb5d3-1c19-48b6-b2ed-6e1b9cad1ba6)
+![image](https://github.com/DandieKYT/Tinkoff/assets/75677738/a89c1c1f-9472-4e0f-9459-2b499c0263a5)
+
 
 
 <a name="Video"><h2>:movie_camera: Видео примеры прохождения тестов</h2></a>
 
 - <a name="Video1"><h3>Пример запуска тестов через selenoid</h3></a>
-    <h1><a href="https://selenoid.autotests.cloud/video/3dfa79f466010ea9163a97c46c110371.mp4">BimeisterTest<br>
+    <h1><a href="https://selenoid.autotests.cloud/video/1a0320049502144d9421ba731289a673.mp4">TinkoffTest<br>
 
 
 
-https://github.com/DandieKYT/Bimeister/assets/75677738/3c663be3-4a9a-4982-9098-8075819ae33f
+
+
+https://github.com/DandieKYT/Tinkoff/assets/75677738/5973d329-8329-4ee9-b14e-311456f6bf01
+
+
 
 
 
