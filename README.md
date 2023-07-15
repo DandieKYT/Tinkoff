@@ -47,18 +47,21 @@
 
 <a name="ImplementedСhecks"><h2>:heavy_check_mark:  Реализованные проверки:</h2></a>
 
-:clipboard: Наличие вакансии тестировщика на <a href = "https://spb.hh.ru/employer/3408968">HH </br>
+:clipboard: Наличие вакансии тестировщика на <a href = "https://www.tinkoff.ru/career/it/?specialtyUrl=testirovanie">странице компании </br>
 
-:speech_balloon: Переход на официальную страницу компании в <a href = "https://vk.com/bimeister">ВК
+:speech_balloon: Переход на официальную страницу компании в <a href = "https://vk.com/tinkoffbank">ВК
+<a href = "https://t.me/tinkoffbank"> Telegram</a>
+
+
+:clipboard: 
+Открытие страницы Вклады и проверка работы <a href = "https://www.tinkoff.ru/deposit/?internal_source=home_icon"> калькулятора.</a>
 </br>
 
-:clipboard: Открытие страниц <a href = "https://bimeister.com/ru/products/">Продукты</a>/<a href = "https://bimeister.com/ru/products/">О компании</a>
+🔎 
+Проверка страницы <a href = "https://www.tinkoff.ru/login/"> авторизации.
 </br>
 
-🔎 Соответствие результатов выдачи во вкладке<a href = "https://bimeister.com/ru/press-center/"> "Медиа-центр"
-</br>
-
-:card_index_dividers: Проверка контактных данных <a href = "https://bimeister.com/ru/contacts/">компании.<a/>
+:card_index_dividers: Проверка <a href = "https://www.tinkoff.ru/business/reports/">условий передачи информации.<a/>
 </br>
 
  <a name="Project"><h2>Проект</h2></a>
